@@ -1,0 +1,246 @@
+    1  sudo node.js
+    2  sudo apt install nodejs
+    3  ls
+    4  node --v
+    5  node -v
+    6  npm -v
+    7  sudo apt install npm
+    8  sudo update
+    9  sudo upgrade
+   10  sudo apt --update
+   11  sudo apt --upgrade
+   12  sudo apt upgrade
+   13  sudo apt install npm
+   14  sudo apt get install npm
+   15  sudo  apt-get install youtube-dl
+   16  sudo apt-get install ffmpeg
+   17  sudo apt-get install vlc
+   18  youtube-dl https://www.youtube.com/watch?v=SJww4kcJas4
+   19  git man
+   20  git init
+   21  git add *
+   22  git commit -m "I fininshed the challenges, I just have to add link them with the html and style the pages"
+   23  git config --global user.mail "rokhuda@gmail.com"
+   24  git config --global user.name "Rokhuda"
+   25  git commit -m "I fininshed the challenges, I just have to add link them with the html and style the pages"
+   26  git config --global user.mail rokhuda@gmail.com
+   27  git config --global user.name Rokhuda
+   28  git commit -m "I fininshed the challenges, I just have to add link them with the html and style the pages"
+   29  git config --global user.mail "rokhuda@gmail.com"
+   30  git config --global user.email "rokhuda@gmail.com"
+   31  git config --global user.name "Rokhuda"
+   32  git commit -m "I fininshed the challenges, I just have to add link them with the html and style the pages"
+   33  git remote add origin https://github.com/Rokhuda/javascriptChallengesC14.git
+   34  git push -u origin master
+   35  git push
+   36  git commit -m "Added text box fields and changed some javascript so it can be easier to impliment with html"
+   37  git add *
+   38  git commit -m "Added text box fields and changed some javascript so it can be easier to impliment with html"
+   39  git push
+   40  sudo apt install whatsapp
+   41  sudo apt install Whatsapp
+   42  sudo apt install Adobe
+   43  sudo apt-get install whatsApp
+   44  sudo apt-install doc sign
+   45  Is
+   46  is
+   47  ls
+   48  Desktop
+   49  ls Desktop
+   50  cd myProjects
+   51  ls
+   52  Desktop
+   53  ls Desktop
+   54  myProjects
+   55  ls
+   56  ls Desktop
+   57  mkdir myProjects
+   58  cd myProjests
+   59  mkdir myProjects
+   60  ls
+   61  ls Desktop
+   62  pwd
+   63  cd myProjects
+   64  myProjects
+   65  cd myProjects
+   66  ls Desktop
+   67  ls
+   68  cd Desktop
+   69  mkdir myProject
+   70  cd myProject
+   71  touch app.js
+   72  ls
+   73  cd Desktop
+   74  cd..
+   75  cd ..
+   76  cd myProject2
+   77  mkdir myProject2
+   78  ls
+   79  cd myProject2
+   80  cp app.js
+   81  cp app.js myProject2
+   82  cd app.js
+   83  cd Desktop
+   84  clear
+   85  cd ..
+   86  cd myProjects
+   87  cd myProject
+   88  cp app.js ../myProjects/
+   89  cp appjs ../myProject2/
+   90  co app.js ../myProject2/
+   91  cp app.js ../myProject2/
+   92  ..
+   93  cd ..
+   94  cd myProject2
+   95  ls
+   96  sudo apt install tecmint
+   97  ls
+   98  cd
+   99  cd ..
+  100  ls
+  101  cd Desktop
+  102  ls
+  103  clear
+  104  cd ..
+  105  ls
+  106  cd Desktop
+  107  Desktop
+  108  clear
+  109  cd Desktop
+  110  ls
+  111  cd Computer
+  112  clear
+  113  ..
+  114  cd..
+  115  cd ..
+  116  ls
+  117  cd Desktop
+  118  cd ../Desktop/
+  119  find Desktop
+  120  exit
+  121  git -v
+  122  pwd
+  123  cd code wars
+  124  cd codewars
+  125  clear
+  126  git --version
+  127  pwd
+  128  ls
+  129  cd Desktop
+  130  ls
+  131  cd code wars
+  132  cd code wars/
+  133  cd codewars
+  134  cd /code wars/
+  135  cd javas
+  136  ..
+  137  cd ..
+  138  cd trial
+  139  git init
+  140  git config --global user.name 'Rokhuda'
+  141  git config --global user.email 'rokhuda@gmail.com'
+  142  git add *.html
+  143  git add *.js
+  144  git status
+  145  clear
+  146  cd ..
+  147  mkdir roro
+  148  cd roro
+  149  touch roro.html
+  150  roro.js
+  151  touch roro.js
+  152  ls
+  153  git init
+  154  git add *.html
+  155  git add *.js
+  156  ls
+  157  ls -al
+  158  git config --user.name 'rokhuda'
+  159  git config --global user.name 'rokhuda'
+  160  git config --global user.email 'rokhuda@gmail.com'
+  161  cd roro.html
+  162  ls
+  163  cat roro.html
+  164  cat >> roro.html
+  165  git status
+  166  ls
+  167  node oop
+  168  pwd
+  169  ls
+  170  cd Desktop
+  171  mkdir git-basic-excercises
+  172  cd git-basic-excercises
+  173  ls -a
+  174  git init
+  175  ls -a
+  176  git status
+  177  touch README.md
+  178  ls -a
+  179  git status
+  180  git log
+  181  git add README.md
+  182  git status
+  183  git rm
+  184  ls -a
+  185  git status
+  186  git rm README.md
+  187  git rm -f README.md 
+  188  git status
+  189  git add
+  190  git add README.md
+  191  man git cheeckout
+  192  ls -a
+  193  touch README.md
+  194  ls -a
+  195  git add
+  196  git add README.md
+  197  git status
+  198  git checkout --README.md
+  199  git checkout -- README.md
+  200  git status
+  201  git reset HEAD README.md
+  202  git reset HEAD -- README.md
+  203  git status
+  204  git add README.md
+  205  git status
+  206  git commit -m "initial commit"
+  207  git log
+  208  q
+  209  nano README.md
+  210  git status
+  211  cat git stats
+  212  cat README.md
+  213  git stats
+  214  git status
+  215  git commit -m "second commit"
+  216  git log
+  217  git commit -m "second commit"
+  218  git add README.md 
+  219  git commit -m "second commit"
+  220  nano README.md
+  221  git add README.md
+  222  git commit -m "third commit"
+  223  git status
+  224  cat README.md
+  225  git log
+  226  q
+  227  git checkout fd22b51d635bb6fd9d3be5e3eefc9899adffb6f8
+  228  cat READNE.dm
+  229  cat README.md
+  230  git checkout master
+  231  cat README.md
+  232  git branch milkshake-flavours
+  233  git branch
+  234  git checkout milkshake-flavours 
+  235  git branch
+  236  nano milkshakes.md
+  237  git status
+  238  git add milkshake
+  239  git add milkshakes.md 
+  240  git commit -m "added initial flavours"
+  241  git log
+  242  git checkout master
+  243  git branch history
+  244  git checkout history
+  245  git log
+  246  history > history.txt
